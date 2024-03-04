@@ -1,0 +1,11 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+pymysql://root:P1#radhan@localhost/node-complete",
+        "prod_uri":"mysql+pymysql://root:@localhost/node-complete",
+        "username":"admin",
+        "password":"P1@radhan"
+    }
+
+}
